@@ -1,12 +1,13 @@
 # Python temporary files
+.venv/
+__pycache__/
+.ipynb_checkpoints/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 .Python
-env/
-venv/
-ENV/
+
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
